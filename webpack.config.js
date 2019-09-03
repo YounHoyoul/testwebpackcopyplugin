@@ -1,7 +1,7 @@
 const path = require('path');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 
-const srcPath = 'src dir (x86)';
+const srcPath = 'Program Files (x86)';
 const targetPath = 'target dir (x86)';
 
 module.exports = {
